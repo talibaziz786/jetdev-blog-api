@@ -1,9 +1,11 @@
 # jetdev-blog-api
 
-# MySQL db dump
+## MySQL db dump
+
 jetdev_blog.sql
 
-# ENV variable file
+## ENV variable file
+
 .env
 
 ## Installation
